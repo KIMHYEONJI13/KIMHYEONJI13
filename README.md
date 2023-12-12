@@ -1,5 +1,32 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20HyeonJi%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMHYEONJI&show_icons=true&theme=radical)
+
+## 📞 Contact 📞
+ <a href="https://open.kakao.com/o/sxDf7uXf">
+        <img src="https://img.shields.io/badge/
+        KakaoTalk-FFCA28?style=flat-square&logo=KakaoTalk&Color=black">
+   
+<!-- ## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:davithjk1310@gmail.com">
+        <img src="https://img.shields.io/badge/
+        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+     <a href="https://open.kakao.com/o/sxDf7uXf">
+        <img src="https://img.shields.io/badge/
+        KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+    </a>
+
+  
+   인스타그램    <a href="https://www.instagram.com/kwonbi_">
+        <img src="https://img.shields.io/badge/
+        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>-->
+
+<!-- 깃허브통계 다른모양 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMHYEONJI&show_icons=true)-->
 <!--
 **KIMHYEONJI13/KIMHYEONJI13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

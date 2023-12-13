@@ -3,26 +3,35 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20HyeonJi%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
-Once I'ne Used
+## 📋 Once I'ne Used 📋
 <!--### ✔️Back-end-->
-<br/>
 <!--JAVA-->
  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <br/>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMHYEONJI&show_icons=true&theme=radical)
-<br/>
-
 ## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
  <a href="https://open.kakao.com/o/sxDf7uXf">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCA28?style=flat-square&logo=KakaoTalk&Color=black">
 
- <div style="display:flex; flex-direction:row;">
-    <a href="mailto:davithjk1310@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+
+ <a href="mailto:davithjk1310@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
     </a>
+    
+<br/>
+<br/>
+<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMHYEONJI&show_icons=true&theme=radical)
+<br/>
+ 
  </div>   
+
+
+
+ 
 <!-- ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:davithjk1310@gmail.com">

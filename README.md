@@ -8,18 +8,18 @@
 ## 📋 Once I've Used 📋
 <!--### ✔️Back-end-->
 <!--JAVA-->
- <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+ <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
 <br/>
 <br/>
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
  <a href="https://open.kakao.com/o/sxDf7uXf">
-        <img src="https://img.shields.io/badge/KakaoTalk-FFCA28?style=flat-square&logo=KakaoTalk&Color=black">
+        <img src="https://img.shields.io/badge/KakaoTalk-FFCA28?style=flat&logo=KakaoTalk&Color=black">
 
 
  <a href="mailto:davithjk1310@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"> 
     </a>
     
 <br/>

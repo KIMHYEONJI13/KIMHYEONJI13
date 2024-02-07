@@ -1,40 +1,44 @@
 <div align="center">
-<!--### Hi there 👋-->
-
-<!--![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20HyeonJi%20GitHub%20&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)-->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Welcome%20to%20HyeonJi%20GitHub%20&fontSize=40" />
 
-## 📋 Once I've Used 📋
-<!--### ✔️Back-end-->
+<div align=center><h1>📚 STACKS</h1></div>
 <!--JAVA-->
  <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
-<br/>
-<br/>
 
-## 📞 Contact 📞
+<br>
+
+<!--html5 / css / javascrip / jquery -->
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white">
+
+<br>  
+
+<!--mysql--> 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
+
+<br><br>
+
+<div align=center><h1>📞 Contact</h1></div>
 <div style="display:flex; flex-direction:row;">
  <a href="https://open.kakao.com/o/sxDf7uXf">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCA28?style=flat&logo=KakaoTalk&Color=black">
-
-
+ </a>
  <a href="mailto:davithjk1310@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"> 
-    </a>
-    
-<br/>
-<br/>
-<br/>
-
+ </a>
+ 
+<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMHYEONJI13&show_icons=true)
 <br/>
  
- </div>   
-
+</div>   
 
 
  
-<!-- ## 📞 Contact 📞
+<!--  예시
+## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:davithjk1310@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 

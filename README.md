@@ -2,21 +2,23 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Welcome%20to%20HyeonJi%20GitHub%20&fontSize=40" />
 
 <div align=center><h1>📚 STACKS</h1></div>
-<!--JAVA-->
+<!--JAVA / Spring / React-->
  <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
-
+ <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"> 
+ <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black"> 
 <br>
 
-<!--html5 / css / javascrip / jquery -->
+<!--html5 / css / JavaScript / jquery -->
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white">
-
 <br>  
 
 <!--mysql--> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
+ 
+ <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white">
 
 <br><br>
 

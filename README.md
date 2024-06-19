@@ -17,6 +17,8 @@
  <img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white">
 <br><br>
  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+ <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-2C2255.svg?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
   <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <br><br>

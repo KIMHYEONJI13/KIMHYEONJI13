@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Welcome%20to%20HyeonJi%20GitHub%20&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Welcome%20to%20Kim Hyeonji%20GitHub%20&fontSize=40" />
 
 <div align=center><h2>STACKS</h2></div>
  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">

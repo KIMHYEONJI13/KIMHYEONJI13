@@ -55,9 +55,9 @@
 
 <div align=center><h2>Where to find me</h2></div>
 <div style="display:flex; flex-direction:none;">
-<!--  <a href="https://open.kakao.com/o/sxDf7uXf">
+ <a href="https://open.kakao.com/o/sxDf7uXf">
         <img alt="kakaotalk" src="https://img.shields.io/badge/KakaoTalk-FFCA28?style=flat&logo=KakaoTalk&Color=black">
- </a> -->
+ </a>
  <a href="mailto:davithjk1310@gmail.com">
       <img alt="gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"> 
  </a>

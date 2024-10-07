@@ -3,7 +3,7 @@
 
 <div align=center><h2>STACKS</h2></div>
  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
- <!-- <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> -->
+ <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"> 
  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
  <img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white">

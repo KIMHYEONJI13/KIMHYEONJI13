@@ -61,7 +61,7 @@
  <a href="mailto:davithjk1310@gmail.com">
       <img alt="gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"> 
  </a>
- <a href="mailto:wjk1310@gmail.com">
+ <a href="mailto:wjk1310@naver.com">
       <img alt="naver" src="https://img.shields.io/badge/naver-03C75A?style=flat&logo=Naver&logoColor=white"> 
  </a>
  
